@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "10908522151",
+    "firebase_url": "https://testall-9906b.firebaseio.com",
+    "project_id": "testall-9906b",
+    "storage_bucket": "testall-9906b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:10908522151:android:51d0adb15590d280",
+        "android_client_info": {
+          "package_name": "com.example.engg.testall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "10908522151-7f9hafiqmr2m8nhhvh93264giuc0decn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.engg.testall",
+            "certificate_hash": "EFE451DAEBA27742A17C30185B783CADB6DDA6D1"
+          }
+        },
+        {
+          "client_id": "10908522151-kjfm3306eebnrh26i4ebrasl2be9vi19.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAU4I6InSuAHNvDqZNfeRHVmKL7nqUjH8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "10908522151-kjfm3306eebnrh26i4ebrasl2be9vi19.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
